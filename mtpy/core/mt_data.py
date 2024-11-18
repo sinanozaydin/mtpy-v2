@@ -26,8 +26,8 @@ from mtpy.core import MTDataFrame, COORDINATE_REFERENCE_FRAME_OPTIONS
 from mtpy.modeling.errors import ModelErrors
 from mtpy.modeling.modem import Data
 from mtpy.modeling.occam2d import Occam2DData
-from mtpy.modeling.simpeg.data_2d import Simpeg2DData
-from mtpy.modeling.simpeg.data_3d import Simpeg3DData
+# from mtpy.modeling.simpeg.data_2d import Simpeg2DData
+# from mtpy.modeling.simpeg.data_3d import Simpeg3DData
 from mtpy.gis.shapefile_creator import ShapefileCreator
 from mtpy.imaging import (
     PlotStations,

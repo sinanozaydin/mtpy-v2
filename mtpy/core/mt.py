@@ -31,7 +31,7 @@ from mtpy.imaging import (
 )
 from mtpy.modeling.errors import ModelErrors
 from mtpy.modeling.occam1d import Occam1DData
-from mtpy.modeling.simpeg.recipes.inversion_1d import Simpeg1D
+# from mtpy.modeling.simpeg.recipes.inversion_1d import Simpeg1D
 
 
 # =============================================================================
